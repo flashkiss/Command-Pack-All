@@ -100,4 +100,4 @@ sleep 4
 
 clear
 
-rm -rf Command-Pack-All.sh
+rm -rf Command-Pack-All
