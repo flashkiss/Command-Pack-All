@@ -12,6 +12,10 @@ apt update && upgrade -y
 
 git clone https://github.com/ITS-R14A/Command-Pack-All
 
+cd Command-Pack-All
+
+ls
+
 chmod +x Command-Pack-All.sh
 
 bash Command-Pack-All.sh
