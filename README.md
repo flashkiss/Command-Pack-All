@@ -10,7 +10,7 @@ Follow Process :)
 ```bash
 apt update && upgrade -y
 
-git clone 
+git clone https://github.com/ITS-R14A/Command-Pack-All
 
 chmod +x Command-Pack-All.sh
 
