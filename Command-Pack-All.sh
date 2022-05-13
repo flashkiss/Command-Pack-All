@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bash
-
+#Autor:Shimanto Islam(R14A)
 echo $red
 
 echo -e "\e[1;32m——————————————————————————————————————————\e[0m"
