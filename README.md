@@ -1,7 +1,7 @@
 
 # FK Installer
 
-FK Installer is a All in one packages here. Auto Install Your need Command, Its Save Your Time 
+All Packages Install On Termux In One Click
 
 ## Installation
 
@@ -10,9 +10,9 @@ Follow Process :)
 ```bash
 apt update && upgrade -y
 
-git clone https://github.com/ITS-R14A
+git clone https://github.com/flashkiss/FK-Installer
 
-cd FK
+cd FK-Installer
 
 ls
 
