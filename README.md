@@ -1,7 +1,7 @@
 
-# Command Pack All
+# FK Installer
 
-Command-Pack-All is a All in one packages here. Auto Install Your need Command, Its Save Your Time 
+FK Installer is a All in one packages here. Auto Install Your need Command, Its Save Your Time 
 
 ## Installation
 
@@ -10,30 +10,19 @@ Follow Process :)
 ```bash
 apt update && upgrade -y
 
-git clone https://github.com/ITS-R14A/Command-Pack-All
+git clone https://github.com/ITS-R14A
 
-cd Command-Pack-All
+cd FK
 
 ls
 
-chmod +x Command-Pack-All.sh
+chmod +x FK.sh
 
-bash Command-Pack-All.sh
+./FK.sh
 ```
  
 ## Authors
 
-- [@R14A](https://github.com/ITS-R14A)
+- [@FlashKiss](https://github.com/flashkiss)
 
-
-## Demo
-
-https://fv9-4.failiem.lv/thumb_show.php?i=74qxxjere&view
-
-https://fv1-5.failiem.lv/thumb_show.php?i=mu6kv6atf&view
-
-
-## Message
-
-Your Need Again This Tool Please Install Again✅
 
