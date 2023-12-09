@@ -8,7 +8,7 @@ All Packages Install On Termux In One Click
 Follow Process :)
 
 ```bash
-apt update && upgrade -y
+pkg install git
 
 git clone https://github.com/flashkiss/FK-Installer
 
