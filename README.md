@@ -18,7 +18,7 @@ ls
 
 chmod +x FK.sh
 
-./FK.sh
+bash FK.sh
 ```
  
 ## Authors
